@@ -1,6 +1,6 @@
 # Proje Hakkında 
 
-Bu proje Unit Text uygulaması gösterilmek için oluşturulmuştur.Projenin hatasız çalışması kontrol edilmiştir.
+Bu proje Unit Test uygulaması gösterilmek için oluşturulmuştur.Projenin hatasız çalışması kontrol edilmiştir.
 
 ## Kütüphaneler
 
